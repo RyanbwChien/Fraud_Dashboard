@@ -10,3 +10,5 @@ dash_daq
 pandas
 openpyxl
 dash-leaflet
+joblib
+scikit-learn
